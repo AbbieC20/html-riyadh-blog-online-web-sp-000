@@ -51,6 +51,12 @@ h4 {
   margin-top: .5em;
 }
 
+p {
+  font-family: 'Gabriela', serif;
+  font-size: 1.5em;
+  margin-top: .5em;
+}
+
 img {
   max-width: 100%;
   width: 100%;
